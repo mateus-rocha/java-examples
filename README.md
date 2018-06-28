@@ -1,6 +1,6 @@
-# java-examples
+# Java examples for data analysis
 
-Useful Java examples for data analysis. 
+Useful Java examples for data analysis.
 
 ## Contents
 

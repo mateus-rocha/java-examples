@@ -38,5 +38,4 @@ public class TesseractExample {
             System.err.println(e.getMessage());
         }
     }
-
 }
